@@ -24,14 +24,14 @@ The following rubric will be used for grading.
 |   | Autograder | Correctness | Style | Total |
 |:-:|:-:|:-:|:-:|:-:|
 | Problem 0 |  |   |  | /45 |
-| Part A |    | /15 | /10 | /20 |
+| Part A |    | /12 | /8 | /20 |
 | Part B |    | /7 | /3 | /10 |
-| Part C |    | /10 | /5 | /10 |
+| Part C |    | /10 | /5 | /15 |
 | Problem 1 |  |   |  | /20 |
 | Part A |    | /9 | /4 | /13 |
 | Part B |    | /5 | /2 | /7 |
 | Problem 2 |  |   |  | /25 |
-| Part A |    | /15 | /5 | /15 |
+| Part A |    | /11 | /4 | /15 |
 | Part B |    | /7 | /3 | /10 |
 | Problem 3 |  | /8 | /2 | /10 |
 
